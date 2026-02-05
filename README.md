@@ -5,7 +5,8 @@ Voy a poner los elementos que el profesor nos _enseño_:
 + **Negritas**
 + _cursiva_
 + Notación de latex
-  - $\int_{0}^{1} x \,dx$
+  
+  - $$\int_{0}^{1} x \,dx$$
 
 ## Topologia 
 
